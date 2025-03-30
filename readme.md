@@ -1,9 +1,9 @@
 # Git Commands 
 ## This is the list of the commands used in git and their uses.
- 1.Git init : Git command to initialize a git repository.
- **2.Git clone 'url' : Clones a remote repository.
- **3.Git status : Shows the status of the files in the current working directory.
- **4.Git add 'file_name' :  Adds the file to the staging area or basically tracks the file.
+ 1.Git init : Git command to initialize a git repository.<br>
+ 2.Git clone 'url' : Clones a remote repository.
+ 3.Git status : Shows the status of the files in the current working directory.
+ 4.Git add 'file_name' :  Adds the file to the staging area or basically tracks the file.
  5.Git commit -m "commit description" : This command commits the changes made in the file after tracking it with a message.
  6.Git push : Pushes the local commits to the remote repository.
  7.Git Pull : This command pulls or fetches and merges changes from remote repositories.

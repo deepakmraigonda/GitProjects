@@ -20,4 +20,14 @@
  18.Git remote -v : lests the remote repositories.<br>
  19.Touch 'file_name' : creates a new file.<br>
  20.Echo "message" >>file_name : Prints the message in the file specified.<br>
- 
+ <h3>
+        GitHub CLI commands
+</h3>
+    1.brew install gh : To install GitHub CLI(on mac) <br>
+    2.Gh --version : to check the version of the GitHub <br>
+    3.Gh pr create --base main --head branch_name --title " My Feature" --body "description about feature" : command to create a pull request from the specific branch to the min branch. <br>
+    4.Gh pr merge : To merge the pull request. <br>
+    5.Gh auth login : Log in to GitHub from your terminal <br>
+    6.Gh auth status : Show current login status <br>
+    7.Gh repo create : Create a new GitHub repo <br>
+   
